@@ -18,7 +18,7 @@ Welcome to my profile. I'm Salvatore, 18 years old (🇷🇺) and currently rese
 - [tickcount/some-web-shit](https://github.com/tickcount/some-web-shit) : PHP / HTML / JS VKE-Scripts (such as AutoAvatar, Liketime, RD Info)
 
 #### C++:
-- Necrofobia | Sociology (2016-2017), Counter-strike:Global Offensive : Spread / NoSpread oriented
+- Necrofobia | Sociology (2016-2017), Counter-strike : Global Offensive, Spread / NoSpread oriented
 - [tickcount/force-crosshair](https://github.com/tickcount/force-crosshair), a simple tool that allows to draw crosshair for sniper weapons
 
 #### Lua
