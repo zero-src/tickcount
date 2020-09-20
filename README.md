@@ -13,7 +13,7 @@ Welcome to my profile. I'm Salvatore, 18 years old (🇬🇧) and currently rese
 - I **don't** sell and have **never** sold private scripts for gamesense, onetap or any other cheat provider.
 - „99% of paid luas are pasted also buying luas is fucking retarded“ (c) [AutumnMemer](https://gamesense.pub/forums/profile.php?id=1096)
 - All my scripts are posted [there](https://github.com/tickcount/.ssh) / directly on cheat's forums.
-- ⚠️ Asking me in dms about scripts/luas will result in a permanent block.
+- ⚠️ Asking me in dms about scripts / luas will result in a permanent block.
 
 ## 🌃 My current/past projects
 
