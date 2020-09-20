@@ -9,6 +9,12 @@ Welcome to my profile. I'm Salvatore, 18 years old (🇬🇧) and currently rese
 
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore:1349](https://gamesense.pub/forums/profile.php?id=1349)
 
+## 🌇 Information regarding private scripts
+- I **don't** sell and have **never** sold private scripts for gamesense, onetap or any other cheat provider.
+- „99% of paid luas are pasted also buying luas is fucking retarded“ (c) [AutumnMemer](https://gamesense.pub/forums/profile.php?id=1096)
+- All my scripts are posted [there](https://github.com/tickcount/.ssh) / directly on cheat's forums.
+- ⚠️ Asking me in dms about scripts/luas will result in a permanent block.
+
 ## 🌃 My current/past projects
 
 #### Web: 
@@ -22,7 +28,7 @@ Welcome to my profile. I'm Salvatore, 18 years old (🇬🇧) and currently rese
 - [tickcount/force-crosshair](https://github.com/tickcount/force-crosshair), a simple tool that allows to draw crosshair for sniper weapons
 
 #### Lua
-- [tickcount/gamesense-lua](https://github.com/tickcount/gamesense-lua), Outdated Gamesense scripts
 - [tickcount/.ssh](https://github.com/tickcount/.ssh), Current Gamesense scripting repository
+- [tickcount/gamesense-lua](https://github.com/tickcount/gamesense-lua), Outdated Gamesense scripts
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
